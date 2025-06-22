@@ -1,5 +1,12 @@
-# 👋 Welcome to My Digital Universe
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Binidu01&style=for-the-badge&color=58A6FF&labelColor=1a1b27" alt="Profile Views" />
+  
+  <!-- Welcome Text -->
+  <h1 style="margin: 0; font-size: 2em;">👋 Welcome to My Digital Universe</h1>
+
+</div>
 <div align="center">
 
   <!-- Animated Typing Effect -->
